@@ -1,0 +1,43 @@
+.shoppingRow{
+    margin-top: 100px;
+}
+
+.gridRow{
+    display: flex;
+    margin-top:100px;
+    justify-content: space-evenly;
+}
+
+@font-face {
+    font-family: 'shoppingCategory';
+    src: local('shoppingCategory'), url(../fonts/Merienda/Merienda-VariableFont_wght.ttf);
+}
+
+.shoppingItemName{
+    text-align: center;
+    font-family:shoppingCategory;
+    margin-top: 60px;
+}
+
+.moreInfo{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.allItem{
+    margin: 120px;
+}
+.singleItem{
+    display: flex;
+    justify-content: flex-start;
+    white-space: pre-wrap;
+    
+}
+
+.linkStyle{
+    color: black;
+}
+
+li{
+    padding-bottom: 10px;
+}

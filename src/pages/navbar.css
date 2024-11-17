@@ -1,0 +1,13 @@
+.navBarButton{
+    color: #1d1f2e;
+    font-size: 12px;
+    border: none;
+    margin-right: 100px;
+    line-height: 18px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    background: white;
+}

@@ -1,0 +1,89 @@
+                <Grid
+                    container
+                    spacing={2}
+                    className='gridRow'
+                >
+                    <Grid item xs={4}>
+                        <Card>
+                            <CardActionArea>
+                                <CardMedia
+                                    component="img"
+                                    height="250"
+                                    image={campingMain}
+                                    alt="green iguana"
+                                    onClick={() => handleData("camping")}
+                                />
+                                <CardContent>
+                                    <Typography gutterBottom variant='h5' component="div">
+                                        Camping
+                                    </Typography>
+                                    <Typography variant='body2' color="text.secondary">
+                                        Camping offers a unique opportunity to reconnect with nature.
+                                        So here is the camping edition can ensure a comfortable and
+                                        enjoyable experience.
+                                    </Typography>
+                                </CardContent>
+                            </CardActionArea>
+                        </Card>
+                    </Grid>
+
+
+                </Grid>
+
+
+
+
+
+
+
+            <Grid
+            container
+            spacing={2}
+            className='gridRow'
+            >
+                <Grid item xs={4}>
+                    <Card>
+                        <CardActionArea>
+                            <CardMedia
+                            component="img"
+                            height="250"
+                            image={campingMain}
+                            alt="green iguana"
+                            onClick={()=>handleData("camping")}
+                            />
+                            <CardContent>
+                                <Typography gutterBottom variant='h5' component="div">
+                                    Camping
+                                </Typography>
+                                <Typography variant='body2' color="text.secondary">
+                                Camping offers a unique opportunity to reconnect with nature.
+                                So here is the camping edition can ensure a comfortable and 
+                                enjoyable experience.
+                                </Typography>
+                            </CardContent>
+                        </CardActionArea>
+                    </Card>
+                </Grid>
+                <Grid item xs={4}>
+                    <Card>
+                        <CardActionArea>
+                            <CardMedia
+                            component="img"
+                            height="250"
+                            image={paintingMain}
+                            alt="green iguana"
+                            onClick={()=>handleData("painting")}
+                            />
+                            <CardContent>
+                                <Typography gutterBottom variant='h5' component="div">
+                                    Painting
+                                </Typography>
+                                <Typography variant='body2' color="text.secondary">
+                                    hPainting is a timeless art form, capturing emotions, stories, and perspectives through strokes of color on canvas
+                                </Typography>
+                            </CardContent>
+                        </CardActionArea>
+                    </Card>
+                </Grid>
+
+            </Grid>
