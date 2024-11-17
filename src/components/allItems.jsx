@@ -119,24 +119,68 @@ function AllItems() {
                 {
                     category:"Painting",
                     nameProduct:"Combo kit of Acrylic Colours",
-                    linkProduct:"https://amzn.to/3YWfGrF",
+                    linkProduct:"https://amzn.to/4fB7J2k",
                     imageProduct:"https://m.media-amazon.com/images/I/81lvZ7lXbqL._SX679_.jpg",
                     descriptionProduct:"Pidilite Combo kit of Acrylic Colours, Glass Colours 3D Outliners and Fine Art Canvas with Brushes, Gift set for Students, Children, Artists"
                 },
                 {
                     category:"Painting",
                     nameProduct:"Watercolour Book",
-                    linkProduct:"https://amzn.to/3CyP74k",
+                    linkProduct:"https://amzn.to/3AMnlk6",
                     imageProduct:"https://m.media-amazon.com/images/I/71oAH5IyOCL._SX679_.jpg",
-                    descriptionProduct:"Factor Notes Watercolour Book: A5, 300 GSM Paper, 24 Pages with Perforation, Wiro Bound"
+                    descriptionProduct:"Factor Notes Watercolour Book: A5, 300 GSM Paper, 24 Pages with Perforation, Wiro Bound (Wine Glass)"
+                },
+                {
+                    category:"Painting",
+                    nameProduct:"Painting Canvas Pad",
+                    linkProduct:"https://amzn.to/3Oaf5O7",
+                    imageProduct:"https://m.media-amazon.com/images/I/71t7PS8F5YL._SX679_.jpg",
+                    descriptionProduct:"Fevicryl Fine Art Cotton Acrylic Painting Canvas Pad (12 X 16 Inch)"
+                },
+                {
+                    category:"Painting",
+                    nameProduct:"Paper Towels",
+                    linkProduct:"https://amzn.to/4fQrJNR",
+                    imageProduct:"https://m.media-amazon.com/images/I/61iF0B42c1L._SX522_.jpg",
+                    descriptionProduct:"Scott 28620 Multifold Paper Towels (M Fold), 250 Pulls/Pack, 24x19.1 cm"
                 },
                 {
                     category:"Painting",
                     nameProduct:"Wooden Painting Palette",
-                    linkProduct:"https://amzn.to/40NJhWD",
-                    imageProduct:"https://m.media-amazon.com/images/I/71t7PS8F5YL._SX679_.jpg",
-                    descriptionProduct:"Fevicryl Fine Art Cotton Acrylic Painting Canvas Pad (12 X 16 Inch)"
+                    linkProduct:"https://amzn.to/3UVeovO",
+                    imageProduct:"https://m.media-amazon.com/images/I/71jr4XvPSDL._SX679_.jpg",
+                    descriptionProduct:"ARTIOS Wooden Painting Palette - 37x20cm Handmade Paint Palette with Thumb Hole for Acrylic, Oil, Watercolor, Gouache Painting - for Professional Artists, Art Enthusiasts & Kids"
                 },
+                {
+                    category:"Painting",
+                    nameProduct:"Painting Brush",
+                    linkProduct:"https://amzn.to/3Z8aMJs",
+                    imageProduct:"https://m.media-amazon.com/images/I/612f+d0WVxL._SX679_.jpg",
+                    descriptionProduct:"ARTIOS Handmade Professional Artist Painting Brush Set for Acrylic, Watercolor, & Gouache Painting with Brush Holder - Cruelty-Free (15 Assorted Brushes)(Wood), Synthetic Bristle"
+                },
+                {
+                    category:"Painting",
+                    nameProduct:"Paint Brush Cleaning and Drying",
+                    linkProduct:"https://amzn.to/4eHyQYg",
+                    imageProduct:"https://m.media-amazon.com/images/I/51PilfFbmdL._SX679_.jpg",
+                    descriptionProduct:"Mont Marte Twin Compartment Plastic Brush Washer. Easy Paint Brush Cleaning and Drying. Suitable for Acrylic and Watercolor Painting."
+                },
+                {
+                    category:"Painting",
+                    nameProduct:"Brush Cleaner",
+                    linkProduct:"https://amzn.to/4fRVUo4",
+                    imageProduct:"https://m.media-amazon.com/images/I/71zg9QSSLiL._SX679_.jpg",
+                    descriptionProduct:"General Pencil 28.30 gms The Masters Brush Cleaner and Preserver (White)"
+                },
+                {
+                    category:"Painting",
+                    nameProduct:"Varnish ",
+                    linkProduct:"https://amzn.to/4eB1BWv",
+                    imageProduct:"https://m.media-amazon.com/images/I/61PnnlEccgS._SY879_.jpg",
+                    descriptionProduct:"GRANOTONE Acrylic Artist's Varnish Non Yellowing Non Toxic (100 ML HIGH Gloss)"
+                },
+
+                
             ]
         }
     ]
